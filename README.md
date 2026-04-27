@@ -1,153 +1,120 @@
-<div align="center">
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-# Thousip K
-### Aspiring Full Stack Developer
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Midhun NK</strong>
+</h1>
 
-Building practical, maintainable software with a strong focus on frontend quality, backend structure, and problem-solving depth.
+<h3>Full Stack Developer | MERN • Python • Flutter</h3>
 
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://dev.to/midhun-nk">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/midhun_n">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Midhun-Nk">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/mike.devlogs">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/midhun-nk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/mike_devlogs">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/EduMikeStudio">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
+<br clear="all" />
+
+
+## 🛠️ Skills
 <p align="center">
-	<a href="#about">About</a> •
-	<a href="#tech-stack">Tech Stack</a> •
-	<a href="#featured-projects">Projects</a> •
-	<a href="#github-insights">Insights</a> •
-	<a href="#current-focus">Focus</a> •
-	<a href="#contact">Contact</a>
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</td>
+
+
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+</td>
+</tr>
+</table>
 </p>
 
-<p align="center">
-	<a href="https://github.com/Thousip683">
-		<img src="https://img.shields.io/badge/GitHub-Thousip683-181717?style=for-the-badge&logo=github" alt="GitHub" />
-	</a>
-	<a href="https://www.linkedin.com/in/your-linkedin-id">
-		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="mailto:your.email@example.com">
-		<img src="https://img.shields.io/badge/Email-Reach%20Out-2F3A4A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-	</a>
-</p>
+
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
-<a id="about"></a>
-## About
-
-<table>
-	<tr>
-		<td width="58%" valign="top">
-
-- Computer Science student focused on building software that is useful, reliable, and well-structured.
-- Developing a strong DSA foundation for interview readiness and algorithmic thinking.
-- Learning full stack development through project-first implementation.
-- Interested in frontend polish, backend architecture, and database modeling.
-- Looking for internship opportunities to contribute in real product environments.
-
-	</td>
-		<td width="42%" valign="top">
-
-**Snapshot**
-
-- Role: Student Developer
-- Primary Track: Full Stack Web Development
-- Secondary Track: DSA and System Fundamentals
-- Target: Internship-ready project portfolio
-
-	</td>
-	</tr>
-</table>
-
----
-
-<a id="tech-stack"></a>
-## Tech Stack
-
-<table>
-	<tr>
-		<td valign="top" width="25%"><strong>Languages</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-			<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-			<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-			<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><strong>Frontend</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-			<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-			<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><strong>Backend</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-			<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><strong>Database</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-		</td>
-	</tr>
-</table>
-
----
-
-<a id="featured-projects"></a>
-## Featured Projects
-
-<table>
-	<tr>
-		<td width="33%" valign="top">
-			<h3>Student Task Manager</h3>
-			<p>Dashboard-style planner to manage tasks, deadlines, and priorities with a clean workflow.</p>
-			<p><strong>Tech:</strong> React, Node.js, MySQL</p>
-		</td>
-		<td width="33%" valign="top">
-			<h3>DSA Practice Tracker</h3>
-			<p>Structured tracker for coding consistency with topic-wise and difficulty-wise progress views.</p>
-			<p><strong>Tech:</strong> JavaScript, Node.js, MySQL</p>
-		</td>
-		<td width="33%" valign="top">
-			<h3>Portfolio and Blog Platform</h3>
-			<p>Responsive personal site for project showcase and technical writing in a minimal layout.</p>
-			<p><strong>Tech:</strong> HTML, CSS, JavaScript, PHP, MySQL</p>
-		</td>
-	</tr>
-</table>
-
----
-
-<a id="github-insights"></a>
-## GitHub Insights
+## ❤️ Support Me
 
 <p align="center">
-	<a href="https://github.com/Thousip683">
-		<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thousip683&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-	</a>
-	<a href="https://github.com/Thousip683">
-		<img height="170" src="https://streak-stats.demolab.com?user=Thousip683&theme=default&hide_border=true" alt="GitHub Streak" />
-	</a>
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
 </p>
-
----
-
-<a id="current-focus"></a>
-## Current Focus
-
-- Improving frontend code quality and reusable UI patterns with React.
-- Writing cleaner backend APIs with better validation and structure.
-- Strengthening DSA for interview consistency.
-- Building portfolio projects with stronger documentation and deployment quality.
-
----
-
-<a id="contact"></a>
-## Contact
-
-- LinkedIn: [linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/your-linkedin-id)
-- Email: [your.email@example.com](mailto:your.email@example.com)
