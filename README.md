@@ -106,3 +106,5 @@ DSA, full stack web development, backend API design, and practical project build
 - **DSA Practice Tracker**: Track solved problems by topic and difficulty.**Tech:** JavaScript, Node.js, MySQL
 - **Portfolio and Blog Platform**: Personal showcase and technical writing space.
   **Tech:** HTML, CSS, JavaScript, PHP, MySQL
+- **Offroad_segmentation**: Offroad semantic scene segmentation system that classifies each pixel in desert/simulator imagery into 10 terrain/object classes to support autonomous navigation and environment understanding.
+  **Tech:** Python, PyTorch, segmentation-models-pytorch (U-Net with ResNet50/MiT-b2/EfficientNet-b4), Albumentations, OpenCV, NumPy, PIL, and tqdm with multi-model ensembling plus test-time augmentation for robust inference.
