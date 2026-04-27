@@ -10,76 +10,46 @@
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
+<p>
     I'm a Computer Science student focused on building clean, practical, and user-friendly applications.
     From responsive interfaces to structured backend APIs, I enjoy creating projects that solve real problems.
   </p>
 
-  <p>
+<p>
     <img src="https://img.shields.io/badge/🎓_Computer_Science_Student-1e1e2e?style=for-the-badge" />
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/📧_your.email@example.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:thousip683@gmail.com"><img src="https://img.shields.io/badge/📧_thousip683@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Internships-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🧠_Learning_DSA_+_Full_Stack-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
-  
+
 <p align="left">
   <a href="https://github.com/Thousip683">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin-id">
+<a href="https://www.linkedin.com/in/thousip-kokkinti-163456324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="mailto:your.email@example.com">
+<a href="mailto:thousip683@gmail.com">
     <img src="https://img.shields.io/badge/Email-2F3A4A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-
-  <img src="https://komarev.com/ghpvc/?username=Thousip683&style=flat-square&color=blue" alt="Profile Visit"/>
+<img src="https://komarev.com/ghpvc/?username=Thousip683&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
-
 ## 🛠️ Skills
+
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=java,c,js,python,html,css" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,php" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mysql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman" />
-</td>
-</tr>
-</table>
-</p>
 
 ## 🚀 Current Focus
 
@@ -87,11 +57,6 @@
 - Building full stack projects with React, Node.js, and MySQL.
 - Improving backend API design and code structure.
 - Preparing an internship-ready portfolio.
-
-
-
-
-
 
 ## 📊 GitHub Stats
 
@@ -105,9 +70,7 @@
 
 ## 📌 Featured Projects
 
-- **Student Task Manager**: Task planner for assignments, deadlines, and priorities.  
-  **Tech:** React, Node.js, MySQL
-- **DSA Practice Tracker**: Track solved problems by topic and difficulty.  
-  **Tech:** JavaScript, Node.js, MySQL
-- **Portfolio and Blog Platform**: Personal showcase and technical writing space.  
+- **Student Task Manager**: Task planner for assignments, deadlines, and priorities.**Tech:** React, Node.js, MySQL
+- **DSA Practice Tracker**: Track solved problems by topic and difficulty.**Tech:** JavaScript, Node.js, MySQL
+- **Portfolio and Blog Platform**: Personal showcase and technical writing space.
   **Tech:** HTML, CSS, JavaScript, PHP, MySQL
