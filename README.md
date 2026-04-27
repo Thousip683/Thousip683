@@ -5,7 +5,7 @@
   Hi, I'm <strong>Thousip K</strong>
 </h1>
 
-<h3>Aspiring Full Stack Developer | Java • JavaScript • Python • React • Node.js</h3>
+<h3>Aspiring Full Stack Developer | C • Java • Python • JavaScript • React • Node.js • ML</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -13,13 +13,15 @@
 <p>
     I'm a Computer Science student focused on building clean, practical, and user-friendly applications.
     From responsive interfaces to structured backend APIs, I enjoy creating projects that solve real problems.
+  I can also train and evaluate machine learning models for classification and prediction tasks.
   </p>
 
 <p>
     <img src="https://img.shields.io/badge/🎓_Computer_Science_Student-1e1e2e?style=for-the-badge" />
     <a href="mailto:thousip683@gmail.com"><img src="https://img.shields.io/badge/📧_thousip683@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Internships-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Internships_&_Freelancing-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🧠_Learning_DSA_+_Full_Stack-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_ML_Model_Training-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -51,11 +53,41 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css" />
+
+</td>
+
+<td width="50%" align="center">
+<h3>📚 Frameworks & Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,php,mysql,git,vscode" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>🧠 Machine Learning</h3>
+
+Model training, evaluation, and performance improvement using supervised learning workflows.
+
+</td>
+<td width="50%" align="center">
+<h3>🎯 Core Focus</h3>
+
+DSA, full stack web development, backend API design, and practical project building.
+
+</td>
+</tr>
+</table>
+</p>
+
 ## 🚀 Current Focus
 
 - Strengthening DSA and problem-solving consistency.
 - Building full stack projects with React, Node.js, and MySQL.
+- Training and tuning machine learning models for better accuracy.
 - Improving backend API design and code structure.
+- Available for freelancing projects in web development and ML model building.
 - Preparing an internship-ready portfolio.
 
 ## 📊 GitHub Stats
