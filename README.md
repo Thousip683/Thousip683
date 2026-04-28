@@ -102,9 +102,18 @@ DSA, full stack web development, backend API design, and practical project build
 
 ## 📌 Featured Projects
 
-- **Student Task Manager**: Task planner for assignments, deadlines, and priorities.**Tech:** React, Node.js, MySQL
-- **DSA Practice Tracker**: Track solved problems by topic and difficulty.**Tech:** JavaScript, Node.js, MySQL
-- **Portfolio and Blog Platform**: Personal showcase and technical writing space.
-  **Tech:** HTML, CSS, JavaScript, PHP, MySQL
+
 - **Offroad_segmentation**: Offroad semantic scene segmentation system that classifies each pixel in desert/simulator imagery into 10 terrain/object classes to support autonomous navigation and environment understanding.
   **Tech:** Python, PyTorch, segmentation-models-pytorch (U-Net with ResNet50/MiT-b2/EfficientNet-b4), Albumentations, OpenCV, NumPy, PIL, and tqdm with multi-model ensembling plus test-time augmentation for robust inference.
+
+
+- **Beyond Classroom**: Student-focused web app that centralizes academics, exam prep, and career/course learning with subjects, timetables, assignments, practice tests, courses, and projects. Includes secure auth and modular features with quick local setup.
+  **Tech:** PHP, MySQL, Vanilla JavaScript
+
+
+- **Rural Care (AI Healthcare Platform)**: AI-assisted healthcare web app for rural communities with symptom checks, risk-tiered results, self-care guidance, and an admin dashboard with trend analytics and alerts. Live demo: https://ruralcareai-joo7.onrender.com/
+  **Tech:** React, TypeScript, Express, SQLite/Postgres
+
+
+- **GestureDesk**: Webcam-based hand-gesture controller for mouse movement, click/drag, and scroll with low-latency tracking, smoothing, and jitter reduction for reliable hands-free control.
+  **Tech:** Python, OpenCV, MediaPipe, PyAutoGUI
